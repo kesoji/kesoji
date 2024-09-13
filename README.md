@@ -14,8 +14,6 @@ Skills: Vim / Go / PHP (Laravel) / Javascript (Vue) / Ruby (Rails) / Dart (Flutt
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kesoji&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/kesoji)  
-
 
 ### Socials
 
