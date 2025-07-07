@@ -1,14 +1,8 @@
-# I Love Vim !
+# I Love Vim
 
+Skills: Vim / PHP (Laravel) / Go / Javascript & TypeScript (Vue.js, React) / Dart (Flutter)
 
-
-
-Skills: Vim / Go / PHP (Laravel) / Javascript (Vue) / Ruby (Rails) / Dart (Flutter)
-
-- 🌱 I’m currently learning Go / Flutter 
-- ⚡ Fun fact: Vim 
-
-
+- ⚡ Fun fact: Vim
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kesoji)](https://github.com/ryo-ma/github-profile-trophy)
 
